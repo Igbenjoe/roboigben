@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/roboigben/static/css/main.e8bcdf0d.css",
+    "main.js": "/roboigben/static/js/main.44e7b9fe.js",
+    "static/js/787.275365df.chunk.js": "/roboigben/static/js/787.275365df.chunk.js",
+    "static/media/sega-webfont.woff": "/roboigben/static/media/sega-webfont.5f82b9b881b9a8218f23.woff",
+    "static/media/sega-webfont.woff2": "/roboigben/static/media/sega-webfont.ce8ee3abffd669918a00.woff2",
+    "index.html": "/roboigben/index.html",
+    "main.e8bcdf0d.css.map": "/roboigben/static/css/main.e8bcdf0d.css.map",
+    "main.44e7b9fe.js.map": "/roboigben/static/js/main.44e7b9fe.js.map",
+    "787.275365df.chunk.js.map": "/roboigben/static/js/787.275365df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8bcdf0d.css",
+    "static/js/main.44e7b9fe.js"
+  ]
+}
